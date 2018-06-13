@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FUSUsageTrigger">
+    <session id="-985702073">
+      <usages-collector id="statistics.php.composer.actions">
+        <counts>
+          <entry key="addDependencyDialog_from_ComposerEditorNotificationPanel.ExtraActions" value="1" />
+          <entry key="create-project_from_ComposerProjectGenerator" value="1" />
+          <entry key="install_from_ComposerEditorNotificationPanel" value="1" />
+          <entry key="self-update_from_MainMenu" value="1" />
+          <entry key="status_from_MainMenu" value="8" />
+          <entry key="updateAll_from_ComposerEditorNotificationPanel" value="2" />
+          <entry key="updateAll_from_MainMenu" value="1" />
+          <entry key="validate_from_MainMenu" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.composer.command.options">
+        <counts>
+          <entry key="create-project_with_--ansi_--no-interaction_--no-progress.default" value="1" />
+          <entry key="validate_with_--ansi_--no-check-publish_--no-interaction_--verbose_--with-dependencies.default" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="UnicodeBrowser">
+    <option name="fontName" value="DejaVu Sans Mono" />
+  </component>
+</project>
